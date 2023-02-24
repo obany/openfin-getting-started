@@ -1,0 +1,6 @@
+{
+	"name": "@openfin/getting-started",
+	"scripts": {
+		"prettier": "prettier --config .prettierrc --write ."
+	}
+}
