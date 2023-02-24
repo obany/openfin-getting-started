@@ -2,5 +2,8 @@
 	"name": "@openfin/getting-started",
 	"scripts": {
 		"prettier": "prettier --config .prettierrc --write ."
+	},
+	"dependencies": {
+		"prettier": "^2.8.4"
 	}
 }
